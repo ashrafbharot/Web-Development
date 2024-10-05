@@ -1,1 +1,2 @@
 # Web-Development
+This repository showcases the web development assignments I completed, where I used HTML, CSS, JavaScript, and frameworks like Tailwind to build responsive and dynamic web pages. Through these projects, I gained practical experience in front-end development, designing user interfaces, and ensuring cross-browser compatibility. Each assignment reflects my understanding of modern web technologies and best practices for creating efficient, interactive websites.
